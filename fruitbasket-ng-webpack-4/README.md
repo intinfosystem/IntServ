@@ -1,6 +1,10 @@
 # Fruit Basket UI.
-Run following command on root forlder to start the applciation.
-```javascript
+Run following commands on root forlder to start the applciation.
+```js
+npm install
+````
+
+```js
 npm start
 ````
 
