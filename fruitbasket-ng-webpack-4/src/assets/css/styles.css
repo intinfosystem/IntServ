@@ -1,0 +1,70 @@
+/*body {
+    background: #0147A7;
+    color: #fff;
+}*/
+.bg-dark-fb {
+    background-color: #A9D154!important
+}
+.img-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.splash-screen {
+    background-color: #D1E69B;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+}
+body {
+    padding-top: 66px;
+}
+.fit-img {
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pad-5 {
+    padding: 5px;
+}
+h5, h4 {
+    text-align: center;
+}
+.dashboard-icon {
+    border: 2px solid #A9D154;
+    border-radius: 15px;
+}
+
+.carousel-indicators {
+    bottom: 0 !important
+}
+.carousel-indicators li {
+    background-color: #A9D154;
+    width: 3px;
+}
+.carousel-indicators 
+.active {
+    background-color: #00AA67 !important
+}
+.carousel-control-next, .carousel-control-prev {
+    background-color: #00AA67 !important
+
+}
+.carousel-item {
+    bottom: 15px !important
+}
+
+.basket-container {
+    border-bottom: 2px solid #A9D154;
+    border-left: 2px solid #A9D154;
+    border-right: 2px solid #A9D154;
+    border-radius: 20px;
+}
+
+.form-control-fb-select {
+    width: auto !important;
+    display: inherit !important;
+}

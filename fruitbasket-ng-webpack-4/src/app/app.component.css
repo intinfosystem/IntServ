@@ -1,0 +1,14 @@
+body {
+  background-image: url("./../assets/images/fruiticonsdribbble.png");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+main {
+  padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  display: block;
+}
+
